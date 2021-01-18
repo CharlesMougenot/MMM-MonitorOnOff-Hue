@@ -30,7 +30,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 }
 ````
 Please visit [Philips Hue API page](https://www.developers.meethue.com/documentation/getting-started) to get an bridgeip and userid.
-Use this url https://<bridgeip>/api/<userid>/groups to get the list of all groups (i.e rooms) existing on your bridge.
+Use this url https://bridgeip/api/userid/groups to get the list of all groups (i.e rooms) existing on your bridge.
 
 ## Configuration options
 
